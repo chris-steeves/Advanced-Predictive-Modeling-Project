@@ -1,0 +1,256 @@
+,Away,Away_Spread,Away_Payout,Home,Home_Spread,Home_Payout,Date
+0,Atlanta Falcons,1.0,-111.0,Philadelphia Eagles,-1.0,101.0,2018-09-06
+1,San Francisco 49Ers,6.0,-102.0,Minnesota Vikings,-6.0,-108.0,2018-09-09
+2,Houston Texans,6.0,-105.0,New England Patriots,-6.0,-105.0,2018-09-09
+3,Pittsburgh Steelers,-3.5,105.0,Cleveland Browns,3.5,-115.0,2018-09-09
+4,Cincinnati Bengals,-1.0,-104.0,Indianapolis Colts,1.0,-106.0,2018-09-09
+5,Jacksonville Jaguars,-2.5,-108.0,New York Giants,2.5,-102.0,2018-09-09
+6,Tampa Bay Buccaneers,10.0,-108.0,New Orleans Saints,-10.0,-102.0,2018-09-09
+7,Buffalo Bills,7.5,-103.0,Baltimore Ravens,-7.5,-107.0,2018-09-09
+8,Tennessee Titans,1.0,-113.0,Miami Dolphins,-1.0,103.0,2018-09-09
+9,Kansas City Chiefs,3.5,-105.0,Los Angeles Chargers,-3.5,-105.0,2018-09-09
+10,Dallas Cowboys,3.0,-105.0,Carolina Panthers,-3.0,-105.0,2018-09-09
+11,Seattle Seahawks,3.0,108.0,Denver Broncos,-3.0,-118.0,2018-09-09
+12,Washington Redskins,-1.5,-102.0,Arizona Cardinals,1.5,-108.0,2018-09-09
+13,Chicago Bears,6.5,-102.0,Green Bay Packers,-6.5,-108.0,2018-09-09
+14,New York Jets,7.0,-102.0,Detroit Lions,-7.0,-108.0,2018-09-10
+15,Baltimore Ravens,-1.0,103.0,Cincinnati Bengals,1.0,-113.0,2018-09-13
+16,Philadelphia Eagles,-2.5,-118.0,Tampa Bay Buccaneers,2.5,108.0,2018-09-16
+17,Houston Texans,-3.0,-120.0,Tennessee Titans,3.0,110.0,2018-09-16
+18,Indianapolis Colts,6.0,-108.0,Washington Redskins,-6.0,-102.0,2018-09-16
+19,Minnesota Vikings,-1.5,-104.0,Green Bay Packers,1.5,-106.0,2018-09-16
+20,Cleveland Browns,10.0,-107.0,New Orleans Saints,-10.0,-103.0,2018-09-16
+21,Kansas City Chiefs,4.5,-108.0,Pittsburgh Steelers,-4.5,-102.0,2018-09-16
+22,Miami Dolphins,3.0,100.0,New York Jets,-3.0,-110.0,2018-09-16
+23,Carolina Panthers,5.5,-108.0,Atlanta Falcons,-5.5,-102.0,2018-09-16
+24,Los Angeles Chargers,-7.0,-120.0,Buffalo Bills,7.0,110.0,2018-09-16
+25,Arizona Cardinals,12.0,-105.0,Los Angeles Rams,-12.0,-105.0,2018-09-16
+26,Detroit Lions,6.0,-108.0,San Francisco 49Ers,-6.0,-102.0,2018-09-16
+27,Oakland Raiders,5.5,-105.0,Denver Broncos,-5.5,-105.0,2018-09-16
+28,New England Patriots,-2.0,-105.0,Jacksonville Jaguars,2.0,-105.0,2018-09-16
+29,New York Giants,2.5,105.0,Dallas Cowboys,-2.5,-115.0,2018-09-16
+30,Seattle Seahawks,5.0,-108.0,Chicago Bears,-5.0,-102.0,2018-09-17
+31,New York Jets,3.0,110.0,Cleveland Browns,-3.0,-120.0,2018-09-20
+32,New Orleans Saints,1.5,-102.0,Atlanta Falcons,-1.5,-108.0,2018-09-23
+33,Buffalo Bills,16.5,-109.0,Minnesota Vikings,-16.5,-101.0,2018-09-23
+34,Denver Broncos,5.5,-108.0,Baltimore Ravens,-5.5,-102.0,2018-09-23
+35,Indianapolis Colts,6.0,100.0,Philadelphia Eagles,-6.0,-110.0,2018-09-23
+36,Cincinnati Bengals,3.0,-113.0,Carolina Panthers,-3.0,103.0,2018-09-23
+37,San Francisco 49Ers,6.0,-102.0,Kansas City Chiefs,-6.0,-108.0,2018-09-23
+38,Green Bay Packers,-2.5,-105.0,Washington Redskins,2.5,-105.0,2018-09-23
+39,Oakland Raiders,2.5,102.0,Miami Dolphins,-2.5,-112.0,2018-09-23
+40,New York Giants,6.5,-106.0,Houston Texans,-6.5,-104.0,2018-09-23
+41,Tennessee Titans,10.0,-105.0,Jacksonville Jaguars,-10.0,-105.0,2018-09-23
+42,Los Angeles Chargers,7.0,-113.0,Los Angeles Rams,-7.0,103.0,2018-09-23
+43,Chicago Bears,-5.5,-101.0,Arizona Cardinals,5.5,-109.0,2018-09-23
+44,Dallas Cowboys,1.5,-106.0,Seattle Seahawks,-1.5,-104.0,2018-09-23
+45,New England Patriots,-6.5,-113.0,Detroit Lions,6.5,103.0,2018-09-23
+46,Pittsburgh Steelers,1.0,-106.0,Tampa Bay Buccaneers,-1.0,-104.0,2018-09-24
+47,Minnesota Vikings,7.0,-105.0,Los Angeles Rams,-7.0,-105.0,2018-09-27
+48,Cincinnati Bengals,3.5,-110.0,Atlanta Falcons,-3.5,100.0,2018-09-30
+49,Tampa Bay Buccaneers,2.5,100.0,Chicago Bears,-2.5,-110.0,2018-09-30
+50,Houston Texans,-1.0,-109.0,Indianapolis Colts,1.0,-101.0,2018-09-30
+51,New York Jets,7.0,100.0,Jacksonville Jaguars,-7.0,-110.0,2018-09-30
+52,Miami Dolphins,6.5,105.0,New England Patriots,-6.5,-115.0,2018-09-30
+53,Detroit Lions,2.5,-105.0,Dallas Cowboys,-2.5,-105.0,2018-09-30
+54,Buffalo Bills,9.5,-109.0,Green Bay Packers,-9.5,-101.0,2018-09-30
+55,Philadelphia Eagles,-2.5,-110.0,Tennessee Titans,2.5,100.0,2018-09-30
+56,Seattle Seahawks,-3.5,-102.0,Arizona Cardinals,3.5,-108.0,2018-09-30
+57,Cleveland Browns,2.5,100.0,Oakland Raiders,-2.5,-110.0,2018-09-30
+58,New Orleans Saints,-3.0,-105.0,New York Giants,3.0,-105.0,2018-09-30
+59,San Francisco 49Ers,9.5,-103.0,Los Angeles Chargers,-9.5,-107.0,2018-09-30
+60,Baltimore Ravens,3.0,-101.0,Pittsburgh Steelers,-3.0,-109.0,2018-09-30
+61,Kansas City Chiefs,-3.5,-105.0,Denver Broncos,3.5,-105.0,2018-10-01
+62,Indianapolis Colts,11.0,-109.0,New England Patriots,-11.0,-101.0,2018-10-04
+63,Miami Dolphins,6.5,-108.0,Cincinnati Bengals,-6.5,-102.0,2018-10-07
+64,New York Giants,6.5,100.0,Carolina Panthers,-6.5,-110.0,2018-10-07
+65,Denver Broncos,1.0,-110.0,New York Jets,-1.0,100.0,2018-10-07
+66,Jacksonville Jaguars,3.0,-107.0,Kansas City Chiefs,-3.0,-103.0,2018-10-07
+67,Green Bay Packers,1.0,-103.0,Detroit Lions,-1.0,-107.0,2018-10-07
+68,Baltimore Ravens,-3.0,-112.0,Cleveland Browns,3.0,102.0,2018-10-07
+69,Atlanta Falcons,3.5,-105.0,Pittsburgh Steelers,-3.5,-105.0,2018-10-07
+70,Tennessee Titans,-6.5,-102.0,Buffalo Bills,6.5,-108.0,2018-10-07
+71,Oakland Raiders,4.5,-101.0,Los Angeles Chargers,-4.5,-109.0,2018-10-07
+72,Minnesota Vikings,3.0,115.0,Philadelphia Eagles,-3.0,-125.0,2018-10-07
+73,Arizona Cardinals,3.0,-105.0,San Francisco 49Ers,-3.0,-105.0,2018-10-07
+74,Los Angeles Rams,-7.5,-103.0,Seattle Seahawks,7.5,-107.0,2018-10-07
+75,Dallas Cowboys,3.0,107.0,Houston Texans,-3.0,-117.0,2018-10-07
+76,Washington Redskins,6.0,-105.0,New Orleans Saints,-6.0,-105.0,2018-10-08
+77,Philadelphia Eagles,-1.5,-107.0,New York Giants,1.5,-103.0,2018-10-11
+78,Seattle Seahawks,-3.0,105.0,Oakland Raiders,3.0,-115.0,2018-10-14
+79,Chicago Bears,-7.0,-105.0,Miami Dolphins,7.0,-105.0,2018-10-14
+80,Indianapolis Colts,2.5,100.0,New York Jets,-2.5,-110.0,2018-10-14
+81,Buffalo Bills,10.0,-102.0,Houston Texans,-10.0,-108.0,2018-10-14
+82,Tampa Bay Buccaneers,3.0,-102.0,Atlanta Falcons,-3.0,-108.0,2018-10-14
+83,Pittsburgh Steelers,2.0,-105.0,Cincinnati Bengals,-2.0,-105.0,2018-10-14
+84,Arizona Cardinals,9.5,-108.0,Minnesota Vikings,-9.5,-102.0,2018-10-14
+85,Los Angeles Chargers,1.0,-112.0,Cleveland Browns,-1.0,102.0,2018-10-14
+86,Carolina Panthers,-1.0,-105.0,Washington Redskins,1.0,-105.0,2018-10-14
+87,Los Angeles Rams,-7.0,100.0,Denver Broncos,7.0,-110.0,2018-10-14
+88,Jacksonville Jaguars,-3.0,-115.0,Dallas Cowboys,3.0,105.0,2018-10-14
+89,Baltimore Ravens,-2.5,-103.0,Tennessee Titans,2.5,-107.0,2018-10-14
+90,Kansas City Chiefs,3.5,-101.0,New England Patriots,-3.5,-109.0,2018-10-14
+91,San Francisco 49Ers,9.0,-109.0,Green Bay Packers,-9.0,-101.0,2018-10-15
+92,Denver Broncos,-1.0,-105.0,Arizona Cardinals,1.0,-105.0,2018-10-18
+93,Tennessee Titans,6.5,103.0,Los Angeles Chargers,-6.5,-113.0,2018-10-21
+94,Minnesota Vikings,-3.0,-115.0,New York Jets,3.0,105.0,2018-10-21
+95,Cleveland Browns,4.0,-108.0,Tampa Bay Buccaneers,-4.0,-102.0,2018-10-21
+96,Detroit Lions,-3.0,-105.0,Miami Dolphins,3.0,-105.0,2018-10-21
+97,Houston Texans,4.0,-105.0,Jacksonville Jaguars,-4.0,-105.0,2018-10-21
+98,Carolina Panthers,4.5,-102.0,Philadelphia Eagles,-4.5,-108.0,2018-10-21
+99,New England Patriots,-1.0,-109.0,Chicago Bears,1.0,-101.0,2018-10-21
+100,Buffalo Bills,7.0,-105.0,Indianapolis Colts,-7.0,-105.0,2018-10-21
+101,New Orleans Saints,2.5,-105.0,Baltimore Ravens,-2.5,-105.0,2018-10-21
+102,Dallas Cowboys,-1.0,-108.0,Washington Redskins,1.0,-102.0,2018-10-21
+103,Los Angeles Rams,-9.5,-102.0,San Francisco 49Ers,9.5,-108.0,2018-10-21
+104,Cincinnati Bengals,6.0,-101.0,Kansas City Chiefs,-6.0,-109.0,2018-10-21
+105,New York Giants,4.0,-102.0,Atlanta Falcons,-4.0,-108.0,2018-10-22
+106,Miami Dolphins,7.5,-105.0,Houston Texans,-7.5,-105.0,2018-10-25
+107,Philadelphia Eagles,-3.5,-105.0,Jacksonville Jaguars,3.5,-105.0,2018-10-28
+108,Washington Redskins,-1.0,102.0,New York Giants,1.0,-112.0,2018-10-28
+109,Seattle Seahawks,3.0,104.0,Detroit Lions,-3.0,-114.0,2018-10-28
+110,Baltimore Ravens,-2.5,-110.0,Carolina Panthers,2.5,100.0,2018-10-28
+111,Denver Broncos,8.5,-105.0,Kansas City Chiefs,-8.5,-105.0,2018-10-28
+112,Tampa Bay Buccaneers,3.5,-110.0,Cincinnati Bengals,-3.5,100.0,2018-10-28
+113,New York Jets,9.0,-108.0,Chicago Bears,-9.0,-102.0,2018-10-28
+114,Cleveland Browns,9.0,-105.0,Pittsburgh Steelers,-9.0,-105.0,2018-10-28
+115,Indianapolis Colts,-3.0,-118.0,Oakland Raiders,3.0,108.0,2018-10-28
+116,Green Bay Packers,7.5,-105.0,Los Angeles Rams,-7.5,-105.0,2018-10-28
+117,San Francisco 49Ers,-2.5,-116.0,Arizona Cardinals,2.5,106.0,2018-10-28
+118,New Orleans Saints,-2.5,-105.0,Minnesota Vikings,2.5,-105.0,2018-10-28
+119,New England Patriots,-14.0,-107.0,Buffalo Bills,14.0,-103.0,2018-10-29
+120,Oakland Raiders,-2.0,-105.0,San Francisco 49Ers,2.0,-105.0,2018-11-01
+121,New York Jets,3.0,-113.0,Miami Dolphins,-3.0,103.0,2018-11-04
+122,Atlanta Falcons,1.0,-101.0,Washington Redskins,-1.0,-109.0,2018-11-04
+123,Detroit Lions,5.5,-105.0,Minnesota Vikings,-5.5,-105.0,2018-11-04
+124,Kansas City Chiefs,-7.5,-108.0,Cleveland Browns,7.5,-102.0,2018-11-04
+125,Tampa Bay Buccaneers,6.5,-102.0,Carolina Panthers,-6.5,-108.0,2018-11-04
+126,Pittsburgh Steelers,1.5,-105.0,Baltimore Ravens,-1.5,-105.0,2018-11-04
+127,Chicago Bears,-10.0,-107.0,Buffalo Bills,10.0,-103.0,2018-11-04
+128,Los Angeles Chargers,1.0,-112.0,Seattle Seahawks,-1.0,102.0,2018-11-04
+129,Houston Texans,1.0,-110.0,Denver Broncos,-1.0,100.0,2018-11-04
+130,Los Angeles Rams,-1.5,-109.0,New Orleans Saints,1.5,-101.0,2018-11-04
+131,Green Bay Packers,4.5,-102.0,New England Patriots,-4.5,-108.0,2018-11-04
+132,Tennessee Titans,4.0,-102.0,Dallas Cowboys,-4.0,-108.0,2018-11-05
+133,Carolina Panthers,3.5,-110.0,Pittsburgh Steelers,-3.5,100.0,2018-11-08
+134,New England Patriots,-6.0,-105.0,Tennessee Titans,6.0,-105.0,2018-11-11
+135,Atlanta Falcons,-5.5,-101.0,Cleveland Browns,5.5,-109.0,2018-11-11
+136,Arizona Cardinals,17.0,-109.0,Kansas City Chiefs,-17.0,-101.0,2018-11-11
+137,Buffalo Bills,7.0,-115.0,New York Jets,-7.0,105.0,2018-11-11
+138,Detroit Lions,7.5,-112.0,Chicago Bears,-7.5,102.0,2018-11-11
+139,Jacksonville Jaguars,3.0,-107.0,Indianapolis Colts,-3.0,-103.0,2018-11-11
+140,Washington Redskins,3.5,-110.0,Tampa Bay Buccaneers,-3.5,100.0,2018-11-11
+141,New Orleans Saints,-6.0,-101.0,Cincinnati Bengals,6.0,-109.0,2018-11-11
+142,Los Angeles Chargers,-10.0,-101.0,Oakland Raiders,10.0,-109.0,2018-11-11
+143,Seattle Seahawks,9.5,-102.0,Los Angeles Rams,-9.5,-108.0,2018-11-11
+144,Miami Dolphins,13.0,-108.0,Green Bay Packers,-13.0,-102.0,2018-11-11
+145,Dallas Cowboys,7.5,-108.0,Philadelphia Eagles,-7.5,-102.0,2018-11-11
+146,New York Giants,3.0,101.0,San Francisco 49Ers,-3.0,-111.0,2018-11-12
+147,Green Bay Packers,3.0,-105.0,Seattle Seahawks,-3.0,-105.0,2018-11-15
+148,Houston Texans,-3.0,-110.0,Washington Redskins,3.0,100.0,2018-11-18
+149,Tampa Bay Buccaneers,3.0,105.0,New York Giants,-3.0,-115.0,2018-11-18
+150,Dallas Cowboys,3.5,-103.0,Atlanta Falcons,-3.5,-107.0,2018-11-18
+151,Cincinnati Bengals,6.5,-105.0,Baltimore Ravens,-6.5,-105.0,2018-11-18
+152,Carolina Panthers,-4.0,-108.0,Detroit Lions,4.0,-102.0,2018-11-18
+153,Tennessee Titans,1.5,-105.0,Indianapolis Colts,-1.5,-105.0,2018-11-18
+154,Pittsburgh Steelers,-4.0,-107.0,Jacksonville Jaguars,4.0,-103.0,2018-11-18
+155,Denver Broncos,7.0,-105.0,Los Angeles Chargers,-7.0,-105.0,2018-11-18
+156,Oakland Raiders,4.5,-107.0,Arizona Cardinals,-4.5,-103.0,2018-11-18
+157,Philadelphia Eagles,7.0,-105.0,New Orleans Saints,-7.0,-105.0,2018-11-18
+158,Minnesota Vikings,2.5,103.0,Chicago Bears,-2.5,-113.0,2018-11-18
+159,Kansas City Chiefs,3.0,108.0,Los Angeles Rams,-3.0,-118.0,2018-11-19
+160,Chicago Bears,-3.0,-114.0,Detroit Lions,3.0,104.0,2018-11-22
+161,Seattle Seahawks,3.0,100.0,Carolina Panthers,-3.0,-110.0,2018-11-25
+162,Tennessee Titans,3.5,-111.0,Houston Texans,-3.5,101.0,2018-11-26
+163,New Orleans Saints,-7.0,-115.0,Dallas Cowboys,7.0,105.0,2018-11-29
+164,Los Angeles Rams,-10.0,-105.0,Detroit Lions,10.0,-105.0,2018-12-02
+165,Carolina Panthers,-3.5,100.0,Tampa Bay Buccaneers,3.5,-110.0,2018-12-02
+166,Arizona Cardinals,13.0,-102.0,Green Bay Packers,-13.0,-108.0,2018-12-02
+167,Denver Broncos,-4.0,-108.0,Cincinnati Bengals,4.0,-102.0,2018-12-02
+168,Baltimore Ravens,2.5,100.0,Atlanta Falcons,-2.5,-110.0,2018-12-02
+169,Chicago Bears,-4.0,-105.0,New York Giants,4.0,-105.0,2018-12-02
+170,Cleveland Browns,5.5,-108.0,Houston Texans,-5.5,-102.0,2018-12-02
+171,Buffalo Bills,3.5,-103.0,Miami Dolphins,-3.5,-107.0,2018-12-02
+172,Indianapolis Colts,-4.0,-109.0,Jacksonville Jaguars,4.0,-101.0,2018-12-02
+173,New York Jets,9.5,-102.0,Tennessee Titans,-9.5,-108.0,2018-12-02
+174,Kansas City Chiefs,-14.0,-102.0,Oakland Raiders,14.0,-108.0,2018-12-02
+175,Minnesota Vikings,6.0,-105.0,New England Patriots,-6.0,-105.0,2018-12-02
+176,San Francisco 49Ers,9.5,-102.0,Seattle Seahawks,-9.5,-108.0,2018-12-02
+177,Los Angeles Chargers,3.5,-110.0,Pittsburgh Steelers,-3.5,100.0,2018-12-02
+178,Washington Redskins,6.0,-109.0,Philadelphia Eagles,-6.0,-101.0,2018-12-03
+179,Jacksonville Jaguars,5.5,-105.0,Tennessee Titans,-5.5,-105.0,2018-12-06
+180,New Orleans Saints,-9.0,-108.0,Tampa Bay Buccaneers,9.0,-102.0,2018-12-09
+181,New York Giants,-3.0,-108.0,Washington Redskins,3.0,-102.0,2018-12-09
+182,Atlanta Falcons,3.5,-102.0,Green Bay Packers,-3.5,-108.0,2018-12-09
+183,Indianapolis Colts,4.0,-108.0,Houston Texans,-4.0,-102.0,2018-12-09
+184,New York Jets,4.0,-102.0,Buffalo Bills,-4.0,-108.0,2018-12-09
+185,Carolina Panthers,-1.0,100.0,Cleveland Browns,1.0,-110.0,2018-12-09
+186,New England Patriots,-9.5,-105.0,Miami Dolphins,9.5,-105.0,2018-12-09
+187,Baltimore Ravens,6.5,-102.0,Kansas City Chiefs,-6.5,-108.0,2018-12-09
+188,Cincinnati Bengals,16.5,-103.0,Los Angeles Chargers,-16.5,-107.0,2018-12-09
+189,Denver Broncos,-3.0,-105.0,San Francisco 49Ers,3.0,-105.0,2018-12-09
+190,Pittsburgh Steelers,-9.5,-106.0,Oakland Raiders,9.5,-104.0,2018-12-09
+191,Detroit Lions,-2.5,-105.0,Arizona Cardinals,2.5,-105.0,2018-12-09
+192,Philadelphia Eagles,3.0,110.0,Dallas Cowboys,-3.0,-120.0,2018-12-09
+193,Los Angeles Rams,-3.0,100.0,Chicago Bears,3.0,-110.0,2018-12-09
+194,Minnesota Vikings,3.0,-105.0,Seattle Seahawks,-3.0,-105.0,2018-12-10
+195,Los Angeles Chargers,4.0,-108.0,Kansas City Chiefs,-4.0,-102.0,2018-12-13
+196,Houston Texans,-7.0,105.0,New York Jets,7.0,-115.0,2018-12-15
+197,Cleveland Browns,2.0,-105.0,Denver Broncos,-2.0,-105.0,2018-12-15
+198,Tennessee Titans,-2.5,-105.0,New York Giants,2.5,-105.0,2018-12-16
+199,Green Bay Packers,6.0,-107.0,Chicago Bears,-6.0,-103.0,2018-12-16
+200,Detroit Lions,2.5,110.0,Buffalo Bills,-2.5,-120.0,2018-12-16
+201,Tampa Bay Buccaneers,8.5,-105.0,Baltimore Ravens,-8.5,-105.0,2018-12-16
+202,Arizona Cardinals,9.0,-108.0,Atlanta Falcons,-9.0,-102.0,2018-12-16
+203,Oakland Raiders,3.0,-105.0,Cincinnati Bengals,-3.0,-105.0,2018-12-16
+204,Dallas Cowboys,3.0,105.0,Indianapolis Colts,-3.0,-115.0,2018-12-16
+205,Miami Dolphins,8.0,-108.0,Minnesota Vikings,-8.0,-102.0,2018-12-16
+206,Washington Redskins,7.0,100.0,Jacksonville Jaguars,-7.0,-110.0,2018-12-16
+207,Seattle Seahawks,-4.0,-105.0,San Francisco 49Ers,4.0,-105.0,2018-12-16
+208,New England Patriots,-2.5,-110.0,Pittsburgh Steelers,2.5,100.0,2018-12-16
+209,Philadelphia Eagles,13.5,-101.0,Los Angeles Rams,-13.5,-109.0,2018-12-16
+210,New Orleans Saints,-6.0,-105.0,Carolina Panthers,6.0,-105.0,2018-12-17
+211,Washington Redskins,12.0,-105.0,Tennessee Titans,-12.0,-105.0,2018-12-22
+212,Baltimore Ravens,4.0,-105.0,Los Angeles Chargers,-4.0,-105.0,2018-12-22
+213,Tampa Bay Buccaneers,7.0,-105.0,Dallas Cowboys,-7.0,-105.0,2018-12-23
+214,Jacksonville Jaguars,3.0,100.0,Miami Dolphins,-3.0,-110.0,2018-12-23
+215,Atlanta Falcons,-2.5,-115.0,Carolina Panthers,2.5,105.0,2018-12-23
+216,Houston Texans,2.0,-105.0,Philadelphia Eagles,-2.0,-105.0,2018-12-23
+217,New York Giants,9.5,-105.0,Indianapolis Colts,-9.5,-105.0,2018-12-23
+218,Green Bay Packers,-2.5,-115.0,New York Jets,2.5,105.0,2018-12-23
+219,Minnesota Vikings,-6.0,-105.0,Detroit Lions,6.0,-105.0,2018-12-23
+220,Buffalo Bills,14.0,-108.0,New England Patriots,-14.0,-102.0,2018-12-23
+221,Cincinnati Bengals,10.0,-108.0,Cleveland Browns,-10.0,-102.0,2018-12-23
+222,Los Angeles Rams,-14.0,-105.0,Arizona Cardinals,14.0,-105.0,2018-12-23
+223,Chicago Bears,-3.5,-105.0,San Francisco 49Ers,3.5,-105.0,2018-12-23
+224,Pittsburgh Steelers,6.5,-105.0,New Orleans Saints,-6.5,-105.0,2018-12-23
+225,Kansas City Chiefs,-1.0,-103.0,Seattle Seahawks,1.0,-107.0,2018-12-23
+226,Denver Broncos,-1.5,-109.0,Oakland Raiders,1.5,-101.0,2018-12-24
+227,Miami Dolphins,5.5,-107.0,Buffalo Bills,-5.5,-103.0,2018-12-30
+228,Carolina Panthers,7.5,-103.0,New Orleans Saints,-7.5,-107.0,2018-12-30
+229,New York Jets,14.0,-107.0,New England Patriots,-14.0,-103.0,2018-12-30
+230,Detroit Lions,7.5,-105.0,Green Bay Packers,-7.5,-105.0,2018-12-30
+231,Dallas Cowboys,7.5,-110.0,New York Giants,-7.5,100.0,2018-12-30
+232,Jacksonville Jaguars,7.0,-102.0,Houston Texans,-7.0,-108.0,2018-12-30
+233,Atlanta Falcons,-2.5,-105.0,Tampa Bay Buccaneers,2.5,-105.0,2018-12-30
+234,Cleveland Browns,7.0,-108.0,Baltimore Ravens,-7.0,-102.0,2018-12-30
+235,Cincinnati Bengals,13.5,-101.0,Pittsburgh Steelers,-13.5,-109.0,2018-12-30
+236,Chicago Bears,5.5,-102.0,Minnesota Vikings,-5.5,-108.0,2018-12-30
+237,Philadelphia Eagles,-6.0,-101.0,Washington Redskins,6.0,-109.0,2018-12-30
+238,Oakland Raiders,14.0,-101.0,Kansas City Chiefs,-14.0,-109.0,2018-12-30
+239,San Francisco 49Ers,10.5,-105.0,Los Angeles Rams,-10.5,-105.0,2018-12-30
+240,Los Angeles Chargers,-6.5,-110.0,Denver Broncos,6.5,100.0,2018-12-30
+241,Arizona Cardinals,15.5,-105.0,Seattle Seahawks,-15.5,-105.0,2018-12-30
+242,Indianapolis Colts,-5.5,-101.0,Tennessee Titans,5.5,-109.0,2018-12-30
+243,Indianapolis Colts,1.5,-102.0,Houston Texans,-1.5,-108.0,2019-01-05
+244,Seattle Seahawks,2.5,108.0,Dallas Cowboys,-2.5,-118.0,2019-01-05
+245,Los Angeles Chargers,2.5,105.0,Baltimore Ravens,-2.5,-115.0,2019-01-06
+246,Philadelphia Eagles,6.5,-102.0,Chicago Bears,-6.5,-108.0,2019-01-06
+247,Indianapolis Colts,4.5,-105.0,Kansas City Chiefs,-4.5,-105.0,2019-01-12
+248,Dallas Cowboys,7.0,106.0,Los Angeles Rams,-7.0,-116.0,2019-01-12
+249,Los Angeles Chargers,3.5,-102.0,New England Patriots,-3.5,-108.0,2019-01-13
+250,Philadelphia Eagles,8.5,-107.0,New Orleans Saints,-8.5,-103.0,2019-01-13
+251,Los Angeles Rams,3.0,-105.0,New Orleans Saints,-3.0,-105.0,2019-01-20
+252,New England Patriots,3.0,110.0,Kansas City Chiefs,-3.0,-120.0,2019-01-20
+253,,-1.5,-105.0,,1.5,-105.0,2019-01-27
+254,New England Patriots,-2.0,-107.0,Los Angeles Rams,2.0,-103.0,2019-02-03

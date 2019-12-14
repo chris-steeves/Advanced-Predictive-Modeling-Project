@@ -1,0 +1,253 @@
+,Away,Away_Spread,Away_Payout,Home,Home_Spread,Home_Payout,Date
+0,Kansas City Chiefs,9.0,-109.0,New England Patriots,-9.0,-101.0,2017-09-07
+1,Oakland Raiders,2.5,105.0,Tennessee Titans,-2.5,-115.0,2017-09-10
+2,Arizona Cardinals,-2.0,-107.0,Detroit Lions,2.0,-103.0,2017-09-10
+3,Atlanta Falcons,-6.5,-109.0,Chicago Bears,6.5,-101.0,2017-09-10
+4,Pittsburgh Steelers,-10.0,-104.0,Cleveland Browns,10.0,-106.0,2017-09-10
+5,Jacksonville Jaguars,6.0,-107.0,Houston Texans,-6.0,-103.0,2017-09-10
+6,New York Jets,7.5,-110.0,Buffalo Bills,-7.5,100.0,2017-09-10
+7,Baltimore Ravens,2.5,102.0,Cincinnati Bengals,-2.5,-112.0,2017-09-10
+8,Philadelphia Eagles,3.0,-175.0,Washington Redskins,-3.0,155.0,2017-09-10
+9,Indianapolis Colts,3.5,-105.0,Los Angeles Rams,-3.5,-105.0,2017-09-10
+10,Seattle Seahawks,2.5,-103.0,Green Bay Packers,-2.5,-107.0,2017-09-10
+11,Carolina Panthers,-4.5,-105.0,San Francisco 49Ers,4.5,-105.0,2017-09-10
+12,New York Giants,5.5,-101.0,Dallas Cowboys,-5.5,-109.0,2017-09-10
+13,New Orleans Saints,3.0,110.0,Minnesota Vikings,-3.0,-120.0,2017-09-11
+14,Houston Texans,5.5,-109.0,Cincinnati Bengals,-5.5,-101.0,2017-09-14
+15,Philadelphia Eagles,4.0,-105.0,Kansas City Chiefs,-4.0,-105.0,2017-09-17
+16,Arizona Cardinals,-6.5,-110.0,Indianapolis Colts,6.5,100.0,2017-09-17
+17,Minnesota Vikings,8.5,-105.0,Pittsburgh Steelers,-8.5,-105.0,2017-09-17
+18,Cleveland Browns,7.5,-110.0,Baltimore Ravens,-7.5,100.0,2017-09-17
+19,New England Patriots,-5.5,-102.0,New Orleans Saints,5.5,-108.0,2017-09-17
+20,Chicago Bears,7.0,-105.0,Tampa Bay Buccaneers,-7.0,-105.0,2017-09-17
+21,Buffalo Bills,6.5,-105.0,Carolina Panthers,-6.5,-105.0,2017-09-17
+22,Tennessee Titans,-1.5,-103.0,Jacksonville Jaguars,1.5,-107.0,2017-09-17
+23,New York Jets,14.0,-105.0,Oakland Raiders,-14.0,-105.0,2017-09-17
+24,Miami Dolphins,3.5,-105.0,Los Angeles Chargers,-3.5,-105.0,2017-09-17
+25,San Francisco 49Ers,13.5,-108.0,Seattle Seahawks,-13.5,-102.0,2017-09-17
+26,Washington Redskins,3.0,-110.0,Los Angeles Rams,-3.0,100.0,2017-09-17
+27,Dallas Cowboys,-2.5,-103.0,Denver Broncos,2.5,-107.0,2017-09-17
+28,Green Bay Packers,3.0,108.0,Atlanta Falcons,-3.0,-118.0,2017-09-17
+29,Detroit Lions,3.0,107.0,New York Giants,-3.0,-117.0,2017-09-18
+30,Los Angeles Rams,-3.0,104.0,San Francisco 49Ers,3.0,-114.0,2017-09-21
+31,Baltimore Ravens,-3.0,-110.0,Jacksonville Jaguars,3.0,100.0,2017-09-24
+32,New Orleans Saints,5.5,-105.0,Carolina Panthers,-5.5,-105.0,2017-09-24
+33,Tampa Bay Buccaneers,1.0,-112.0,Minnesota Vikings,-1.0,102.0,2017-09-24
+34,Denver Broncos,-3.5,100.0,Buffalo Bills,3.5,-110.0,2017-09-24
+35,Pittsburgh Steelers,-6.5,-115.0,Chicago Bears,6.5,105.0,2017-09-24
+36,Miami Dolphins,-5.5,-107.0,New York Jets,5.5,-103.0,2017-09-24
+37,New York Giants,5.0,-105.0,Philadelphia Eagles,-5.0,-105.0,2017-09-24
+38,Atlanta Falcons,-3.0,-115.0,Detroit Lions,3.0,105.0,2017-09-24
+39,Houston Texans,13.5,-109.0,New England Patriots,-13.5,-101.0,2017-09-24
+40,Cleveland Browns,1.0,-110.0,Indianapolis Colts,-1.0,100.0,2017-09-24
+41,Seattle Seahawks,2.5,-105.0,Tennessee Titans,-2.5,-105.0,2017-09-24
+42,Kansas City Chiefs,-3.0,105.0,Los Angeles Chargers,3.0,-115.0,2017-09-24
+43,Cincinnati Bengals,7.0,-105.0,Green Bay Packers,-7.0,-105.0,2017-09-24
+44,Oakland Raiders,-3.0,-122.0,Washington Redskins,3.0,112.0,2017-09-24
+45,Dallas Cowboys,-3.0,105.0,Arizona Cardinals,3.0,-115.0,2017-09-25
+46,Chicago Bears,7.0,-107.0,Green Bay Packers,-7.0,-103.0,2017-09-28
+47,New Orleans Saints,-4.0,-103.0,Miami Dolphins,4.0,-107.0,2017-10-01
+48,Pittsburgh Steelers,-3.5,-105.0,Baltimore Ravens,3.5,-105.0,2017-10-01
+49,Carolina Panthers,9.0,-106.0,New England Patriots,-9.0,-104.0,2017-10-01
+50,Tennessee Titans,-2.5,-115.0,Houston Texans,2.5,105.0,2017-10-01
+51,Detroit Lions,2.5,110.0,Minnesota Vikings,-2.5,-120.0,2017-10-01
+52,Buffalo Bills,8.0,-103.0,Atlanta Falcons,-8.0,-107.0,2017-10-01
+53,Los Angeles Rams,5.5,-105.0,Dallas Cowboys,-5.5,-105.0,2017-10-01
+54,Cincinnati Bengals,-3.5,100.0,Cleveland Browns,3.5,-110.0,2017-10-01
+55,Jacksonville Jaguars,-4.0,-102.0,New York Jets,4.0,-108.0,2017-10-01
+56,New York Giants,2.5,100.0,Tampa Bay Buccaneers,-2.5,-110.0,2017-10-01
+57,Philadelphia Eagles,2.0,-105.0,Los Angeles Chargers,-2.0,-105.0,2017-10-01
+58,San Francisco 49Ers,6.5,-105.0,Arizona Cardinals,-6.5,-105.0,2017-10-01
+59,Oakland Raiders,3.5,-101.0,Denver Broncos,-3.5,-109.0,2017-10-01
+60,Indianapolis Colts,12.0,-102.0,Seattle Seahawks,-12.0,-108.0,2017-10-01
+61,Washington Redskins,6.5,-105.0,Kansas City Chiefs,-6.5,-105.0,2017-10-02
+62,New England Patriots,-3.5,-105.0,Tampa Bay Buccaneers,3.5,-105.0,2017-10-05
+63,Arizona Cardinals,6.0,-103.0,Philadelphia Eagles,-6.0,-107.0,2017-10-08
+64,Carolina Panthers,2.0,-101.0,Detroit Lions,-2.0,-109.0,2017-10-08
+65,San Francisco 49Ers,-1.0,-112.0,Indianapolis Colts,1.0,102.0,2017-10-08
+66,Jacksonville Jaguars,7.0,100.0,Pittsburgh Steelers,-7.0,-110.0,2017-10-08
+67,Buffalo Bills,3.0,-110.0,Cincinnati Bengals,-3.0,100.0,2017-10-08
+68,New York Jets,-1.5,-107.0,Cleveland Browns,1.5,-103.0,2017-10-08
+69,Tennessee Titans,1.0,-105.0,Miami Dolphins,-1.0,-105.0,2017-10-08
+70,Los Angeles Chargers,3.0,-108.0,New York Giants,-3.0,-102.0,2017-10-08
+71,Baltimore Ravens,3.0,-105.0,Oakland Raiders,-3.0,-105.0,2017-10-08
+72,Seattle Seahawks,2.5,-105.0,Los Angeles Rams,-2.5,-105.0,2017-10-08
+73,Green Bay Packers,2.5,100.0,Dallas Cowboys,-2.5,-110.0,2017-10-08
+74,Kansas City Chiefs,-1.5,-108.0,Houston Texans,1.5,-102.0,2017-10-08
+75,Minnesota Vikings,-3.5,103.0,Chicago Bears,3.5,-113.0,2017-10-09
+76,Philadelphia Eagles,3.0,-115.0,Carolina Panthers,-3.0,105.0,2017-10-12
+77,Green Bay Packers,-3.0,-103.0,Minnesota Vikings,3.0,-107.0,2017-10-15
+78,Cleveland Browns,7.5,-110.0,Houston Texans,-7.5,100.0,2017-10-15
+79,Detroit Lions,5.5,-105.0,New Orleans Saints,-5.5,-105.0,2017-10-15
+80,Miami Dolphins,14.0,-106.0,Atlanta Falcons,-14.0,-104.0,2017-10-15
+81,New England Patriots,-9.5,-105.0,New York Jets,9.5,-105.0,2017-10-15
+82,Chicago Bears,5.5,-108.0,Baltimore Ravens,-5.5,-102.0,2017-10-15
+83,San Francisco 49Ers,11.0,-105.0,Washington Redskins,-11.0,-105.0,2017-10-15
+84,Tampa Bay Buccaneers,-2.5,-112.0,Arizona Cardinals,2.5,102.0,2017-10-15
+85,Los Angeles Rams,1.0,-105.0,Jacksonville Jaguars,-1.0,-105.0,2017-10-15
+86,Los Angeles Chargers,3.0,-103.0,Oakland Raiders,-3.0,-107.0,2017-10-15
+87,Pittsburgh Steelers,3.0,105.0,Kansas City Chiefs,-3.0,-115.0,2017-10-15
+88,New York Giants,13.5,-103.0,Denver Broncos,-13.5,-107.0,2017-10-15
+89,Indianapolis Colts,7.0,-110.0,Tennessee Titans,-7.0,100.0,2017-10-16
+90,Kansas City Chiefs,-3.0,103.0,Oakland Raiders,3.0,-113.0,2017-10-19
+91,Baltimore Ravens,5.5,-105.0,Minnesota Vikings,-5.5,-105.0,2017-10-22
+92,Tennessee Titans,-6.0,-101.0,Cleveland Browns,6.0,-109.0,2017-10-22
+93,New York Jets,3.0,-105.0,Miami Dolphins,-3.0,-105.0,2017-10-22
+94,Jacksonville Jaguars,-3.0,-105.0,Indianapolis Colts,3.0,-105.0,2017-10-22
+95,Arizona Cardinals,3.0,105.0,Los Angeles Rams,-3.0,-115.0,2017-10-22
+96,Carolina Panthers,-2.5,-120.0,Chicago Bears,2.5,110.0,2017-10-22
+97,Tampa Bay Buccaneers,3.0,105.0,Buffalo Bills,-3.0,-115.0,2017-10-22
+98,New Orleans Saints,-4.0,-103.0,Green Bay Packers,4.0,-107.0,2017-10-22
+99,Dallas Cowboys,-6.0,-107.0,San Francisco 49Ers,6.0,-103.0,2017-10-22
+100,Seattle Seahawks,-3.5,-108.0,New York Giants,3.5,-102.0,2017-10-22
+101,Denver Broncos,-1.0,100.0,Los Angeles Chargers,1.0,-110.0,2017-10-22
+102,Cincinnati Bengals,4.5,-105.0,Pittsburgh Steelers,-4.5,-105.0,2017-10-22
+103,Atlanta Falcons,3.0,-120.0,New England Patriots,-3.0,110.0,2017-10-22
+104,Washington Redskins,5.5,-109.0,Philadelphia Eagles,-5.5,-101.0,2017-10-23
+105,Miami Dolphins,3.0,-103.0,Baltimore Ravens,-3.0,-107.0,2017-10-26
+106,Minnesota Vikings,-11.0,-108.0,Cleveland Browns,11.0,-102.0,2017-10-29
+107,San Francisco 49Ers,13.0,-102.0,Philadelphia Eagles,-13.0,-108.0,2017-10-29
+108,Oakland Raiders,2.5,-108.0,Buffalo Bills,-2.5,-102.0,2017-10-29
+109,Indianapolis Colts,10.5,-103.0,Cincinnati Bengals,-10.5,-107.0,2017-10-29
+110,Carolina Panthers,1.5,-103.0,Tampa Bay Buccaneers,-1.5,-107.0,2017-10-29
+111,Chicago Bears,7.5,-104.0,New Orleans Saints,-7.5,-106.0,2017-10-29
+112,Atlanta Falcons,-6.5,-115.0,New York Jets,6.5,105.0,2017-10-29
+113,Los Angeles Chargers,6.5,-105.0,New England Patriots,-6.5,-105.0,2017-10-29
+114,Houston Texans,6.0,-102.0,Seattle Seahawks,-6.0,-108.0,2017-10-29
+115,Dallas Cowboys,-3.0,-110.0,Washington Redskins,3.0,100.0,2017-10-29
+116,Pittsburgh Steelers,-3.0,-115.0,Detroit Lions,3.0,105.0,2017-10-29
+117,Denver Broncos,7.0,100.0,Kansas City Chiefs,-7.0,-110.0,2017-10-30
+118,Buffalo Bills,-3.0,-120.0,New York Jets,3.0,110.0,2017-11-02
+119,Tampa Bay Buccaneers,6.5,108.0,New Orleans Saints,-6.5,-118.0,2017-11-05
+120,Baltimore Ravens,3.0,100.0,Tennessee Titans,-3.0,-110.0,2017-11-05
+121,Los Angeles Rams,-6.0,-101.0,New York Giants,6.0,-109.0,2017-11-05
+122,Cincinnati Bengals,6.0,-109.0,Jacksonville Jaguars,-6.0,-101.0,2017-11-05
+123,Indianapolis Colts,6.0,-103.0,Houston Texans,-6.0,-107.0,2017-11-05
+124,Atlanta Falcons,-3.0,100.0,Carolina Panthers,3.0,-110.0,2017-11-05
+125,Denver Broncos,7.0,-111.0,Philadelphia Eagles,-7.0,101.0,2017-11-05
+126,Arizona Cardinals,-2.5,-105.0,San Francisco 49Ers,2.5,-105.0,2017-11-05
+127,Washington Redskins,8.0,-105.0,Seattle Seahawks,-8.0,-105.0,2017-11-05
+128,Kansas City Chiefs,2.5,-108.0,Dallas Cowboys,-2.5,-102.0,2017-11-05
+129,Oakland Raiders,-3.0,-108.0,Miami Dolphins,3.0,-102.0,2017-11-05
+130,Detroit Lions,-2.5,-109.0,Green Bay Packers,2.5,-101.0,2017-11-06
+131,Seattle Seahawks,-6.0,-105.0,Arizona Cardinals,6.0,-105.0,2017-11-09
+132,Pittsburgh Steelers,-10.5,-108.0,Indianapolis Colts,10.5,-102.0,2017-11-12
+133,Minnesota Vikings,-1.0,102.0,Washington Redskins,1.0,-112.0,2017-11-12
+134,Los Angeles Chargers,5.0,-105.0,Jacksonville Jaguars,-5.0,-105.0,2017-11-12
+135,New Orleans Saints,-2.0,-105.0,Buffalo Bills,2.0,-105.0,2017-11-12
+136,Green Bay Packers,5.0,-103.0,Chicago Bears,-5.0,-107.0,2017-11-12
+137,Cincinnati Bengals,4.5,-102.0,Tennessee Titans,-4.5,-108.0,2017-11-12
+138,New York Jets,1.5,-107.0,Tampa Bay Buccaneers,-1.5,-103.0,2017-11-12
+139,Cleveland Browns,10.0,-109.0,Detroit Lions,-10.0,-101.0,2017-11-12
+140,Houston Texans,12.5,-107.0,Los Angeles Rams,-12.5,-103.0,2017-11-12
+141,New York Giants,-3.0,-109.0,San Francisco 49Ers,3.0,-101.0,2017-11-12
+142,Dallas Cowboys,3.5,-107.0,Atlanta Falcons,-3.5,-103.0,2017-11-12
+143,New England Patriots,-7.0,101.0,Denver Broncos,7.0,-111.0,2017-11-12
+144,Miami Dolphins,8.0,-108.0,Carolina Panthers,-8.0,-102.0,2017-11-13
+145,Tennessee Titans,7.0,-113.0,Pittsburgh Steelers,-7.0,103.0,2017-11-16
+146,Los Angeles Rams,1.5,-105.0,Minnesota Vikings,-1.5,-105.0,2017-11-19
+147,Baltimore Ravens,-2.5,-105.0,Green Bay Packers,2.5,-105.0,2017-11-19
+148,Arizona Cardinals,2.5,-102.0,Houston Texans,-2.5,-108.0,2017-11-19
+149,Washington Redskins,9.5,-108.0,New Orleans Saints,-9.5,-102.0,2017-11-19
+150,Jacksonville Jaguars,-7.0,-110.0,Cleveland Browns,7.0,100.0,2017-11-19
+151,Detroit Lions,-3.0,-108.0,Chicago Bears,3.0,-102.0,2017-11-19
+152,Tampa Bay Buccaneers,-1.5,-105.0,Miami Dolphins,1.5,-105.0,2017-11-19
+153,Kansas City Chiefs,-9.5,-108.0,New York Giants,9.5,-102.0,2017-11-19
+154,Buffalo Bills,7.0,-110.0,Los Angeles Chargers,-7.0,100.0,2017-11-19
+155,New England Patriots,-7.0,-105.0,Oakland Raiders,7.0,-105.0,2017-11-19
+156,Cincinnati Bengals,3.0,-110.0,Denver Broncos,-3.0,100.0,2017-11-19
+157,Philadelphia Eagles,-6.0,-102.0,Dallas Cowboys,6.0,-108.0,2017-11-19
+158,Atlanta Falcons,-1.0,103.0,Seattle Seahawks,1.0,-113.0,2017-11-20
+159,Minnesota Vikings,-2.5,-109.0,Detroit Lions,2.5,-101.0,2017-11-23
+160,Tennessee Titans,-3.0,-118.0,Indianapolis Colts,3.0,108.0,2017-11-26
+161,Carolina Panthers,-6.0,-102.0,New York Jets,6.0,-108.0,2017-11-26
+162,Cleveland Browns,7.5,-111.0,Cincinnati Bengals,-7.5,101.0,2017-11-26
+163,Tampa Bay Buccaneers,10.0,-102.0,Atlanta Falcons,-10.0,-108.0,2017-11-26
+164,Miami Dolphins,16.5,-101.0,New England Patriots,-16.5,-109.0,2017-11-26
+165,Buffalo Bills,8.0,-105.0,Kansas City Chiefs,-8.0,-105.0,2017-11-26
+166,Chicago Bears,13.5,-102.0,Philadelphia Eagles,-13.5,-108.0,2017-11-26
+167,Seattle Seahawks,-6.5,-110.0,San Francisco 49Ers,6.5,100.0,2017-11-26
+168,New Orleans Saints,2.5,105.0,Los Angeles Rams,-2.5,-115.0,2017-11-26
+169,Jacksonville Jaguars,-6.5,-102.0,Arizona Cardinals,6.5,-108.0,2017-11-26
+170,Denver Broncos,4.0,-108.0,Oakland Raiders,-4.0,-102.0,2017-11-26
+171,Green Bay Packers,14.0,-101.0,Pittsburgh Steelers,-14.0,-109.0,2017-11-26
+172,Houston Texans,7.5,-104.0,Baltimore Ravens,-7.5,-106.0,2017-11-27
+173,Washington Redskins,-1.5,-105.0,Dallas Cowboys,1.5,-105.0,2017-11-30
+174,Tampa Bay Buccaneers,3.0,105.0,Green Bay Packers,-3.0,-115.0,2017-12-03
+175,Minnesota Vikings,2.0,-105.0,Atlanta Falcons,-2.0,-105.0,2017-12-03
+176,San Francisco 49Ers,2.5,105.0,Chicago Bears,-2.5,-115.0,2017-12-03
+177,Detroit Lions,2.5,-102.0,Baltimore Ravens,-2.5,-108.0,2017-12-03
+178,Denver Broncos,-1.5,-108.0,Miami Dolphins,1.5,-102.0,2017-12-03
+179,Indianapolis Colts,10.0,-108.0,Jacksonville Jaguars,-10.0,-102.0,2017-12-03
+180,Houston Texans,7.0,-110.0,Tennessee Titans,-7.0,100.0,2017-12-03
+181,Kansas City Chiefs,-3.5,-107.0,New York Jets,3.5,-103.0,2017-12-03
+182,New England Patriots,-7.5,103.0,Buffalo Bills,7.5,-113.0,2017-12-03
+183,Cleveland Browns,13.0,-102.0,Los Angeles Chargers,-13.0,-108.0,2017-12-03
+184,Carolina Panthers,6.0,-109.0,New Orleans Saints,-6.0,-101.0,2017-12-03
+185,Los Angeles Rams,-7.0,-115.0,Arizona Cardinals,7.0,105.0,2017-12-03
+186,New York Giants,10.0,-109.0,Oakland Raiders,-10.0,-101.0,2017-12-03
+187,Philadelphia Eagles,-4.0,-102.0,Seattle Seahawks,4.0,-108.0,2017-12-03
+188,Pittsburgh Steelers,-4.5,-105.0,Cincinnati Bengals,4.5,-105.0,2017-12-04
+189,New Orleans Saints,2.0,-101.0,Atlanta Falcons,-2.0,-109.0,2017-12-07
+190,Oakland Raiders,4.0,-103.0,Kansas City Chiefs,-4.0,-107.0,2017-12-10
+191,San Francisco 49Ers,1.5,-105.0,Houston Texans,-1.5,-105.0,2017-12-10
+192,Minnesota Vikings,-2.5,-102.0,Carolina Panthers,2.5,-108.0,2017-12-10
+193,Chicago Bears,6.0,-107.0,Cincinnati Bengals,-6.0,-103.0,2017-12-10
+194,Green Bay Packers,-2.5,-102.0,Cleveland Browns,2.5,-108.0,2017-12-10
+195,Detroit Lions,1.0,-110.0,Tampa Bay Buccaneers,-1.0,100.0,2017-12-10
+196,Indianapolis Colts,3.5,-112.0,Buffalo Bills,-3.5,102.0,2017-12-10
+197,Dallas Cowboys,-4.0,-107.0,New York Giants,4.0,-103.0,2017-12-10
+198,Washington Redskins,6.0,-103.0,Los Angeles Chargers,-6.0,-107.0,2017-12-10
+199,Tennessee Titans,-2.5,-115.0,Arizona Cardinals,2.5,105.0,2017-12-10
+200,New York Jets,-1.0,-105.0,Denver Broncos,1.0,-105.0,2017-12-10
+201,Seattle Seahawks,3.0,-120.0,Jacksonville Jaguars,-3.0,110.0,2017-12-10
+202,Philadelphia Eagles,-1.0,-105.0,Los Angeles Rams,1.0,-105.0,2017-12-10
+203,Baltimore Ravens,6.0,-107.0,Pittsburgh Steelers,-6.0,-103.0,2017-12-10
+204,New England Patriots,-10.5,-102.0,Miami Dolphins,10.5,-108.0,2017-12-11
+205,Denver Broncos,-2.5,-120.0,Indianapolis Colts,2.5,110.0,2017-12-14
+206,Chicago Bears,5.0,-105.0,Detroit Lions,-5.0,-105.0,2017-12-16
+207,Los Angeles Chargers,-1.0,102.0,Kansas City Chiefs,1.0,-112.0,2017-12-16
+208,Philadelphia Eagles,-7.5,105.0,New York Giants,7.5,-115.0,2017-12-17
+209,Cincinnati Bengals,13.0,-108.0,Minnesota Vikings,-13.0,-102.0,2017-12-17
+210,Houston Texans,10.5,-109.0,Jacksonville Jaguars,-10.5,-101.0,2017-12-17
+211,Arizona Cardinals,4.5,-108.0,Washington Redskins,-4.5,-102.0,2017-12-17
+212,New York Jets,16.0,-105.0,New Orleans Saints,-16.0,-105.0,2017-12-17
+213,Miami Dolphins,3.5,-105.0,Buffalo Bills,-3.5,-105.0,2017-12-17
+214,Green Bay Packers,3.0,-115.0,Carolina Panthers,-3.0,105.0,2017-12-17
+215,Baltimore Ravens,-6.5,-102.0,Cleveland Browns,6.5,-108.0,2017-12-17
+216,Los Angeles Rams,-1.0,100.0,Seattle Seahawks,1.0,-110.0,2017-12-17
+217,New England Patriots,-2.5,-103.0,Pittsburgh Steelers,2.5,-107.0,2017-12-17
+218,Tennessee Titans,2.5,-108.0,San Francisco 49Ers,-2.5,-102.0,2017-12-17
+219,Dallas Cowboys,-3.0,100.0,Oakland Raiders,3.0,-110.0,2017-12-17
+220,Atlanta Falcons,-7.0,100.0,Tampa Bay Buccaneers,7.0,-110.0,2017-12-18
+221,Indianapolis Colts,13.5,-102.0,Baltimore Ravens,-13.5,-108.0,2017-12-23
+222,Minnesota Vikings,-9.0,-102.0,Green Bay Packers,9.0,-108.0,2017-12-23
+223,Cleveland Browns,6.0,-109.0,Chicago Bears,-6.0,-101.0,2017-12-24
+224,Atlanta Falcons,5.5,-103.0,New Orleans Saints,-5.5,-107.0,2017-12-24
+225,Denver Broncos,3.0,105.0,Washington Redskins,-3.0,-115.0,2017-12-24
+226,Tampa Bay Buccaneers,10.0,-108.0,Carolina Panthers,-10.0,-102.0,2017-12-24
+227,Miami Dolphins,11.0,-109.0,Kansas City Chiefs,-11.0,-101.0,2017-12-24
+228,Los Angeles Rams,-5.5,-102.0,Tennessee Titans,5.5,-108.0,2017-12-24
+229,Los Angeles Chargers,-7.0,-110.0,New York Jets,7.0,100.0,2017-12-24
+230,Detroit Lions,-3.5,110.0,Cincinnati Bengals,3.5,-120.0,2017-12-24
+231,Buffalo Bills,11.0,-105.0,New England Patriots,-11.0,-105.0,2017-12-24
+232,Jacksonville Jaguars,-4.0,-102.0,San Francisco 49Ers,4.0,-108.0,2017-12-24
+233,New York Giants,3.0,105.0,Arizona Cardinals,-3.0,-115.0,2017-12-24
+234,Seattle Seahawks,4.5,-105.0,Dallas Cowboys,-4.5,-105.0,2017-12-24
+235,Pittsburgh Steelers,-8.5,-105.0,Houston Texans,8.5,-105.0,2017-12-25
+236,Washington Redskins,-5.0,-105.0,New York Giants,5.0,-105.0,2017-12-31
+237,New York Jets,16.0,-105.0,New England Patriots,-16.0,-105.0,2017-12-31
+238,Houston Texans,5.5,-105.0,Indianapolis Colts,-5.5,-105.0,2017-12-31
+239,Cleveland Browns,5.0,-103.0,Pittsburgh Steelers,-5.0,-107.0,2017-12-31
+240,Green Bay Packers,7.5,-115.0,Detroit Lions,-7.5,105.0,2017-12-31
+241,Dallas Cowboys,-4.0,-101.0,Philadelphia Eagles,4.0,-109.0,2017-12-31
+242,Chicago Bears,12.5,-105.0,Minnesota Vikings,-12.5,-105.0,2017-12-31
+243,Carolina Panthers,5.0,-102.0,Atlanta Falcons,-5.0,-108.0,2017-12-31
+244,Buffalo Bills,-2.5,-110.0,Miami Dolphins,2.5,100.0,2017-12-31
+245,Jacksonville Jaguars,2.5,100.0,Tennessee Titans,-2.5,-110.0,2017-12-31
+246,Cincinnati Bengals,8.0,-105.0,Baltimore Ravens,-8.0,-105.0,2017-12-31
+247,New Orleans Saints,-6.0,-106.0,Tampa Bay Buccaneers,6.0,-104.0,2017-12-31
+248,Jacksonville Jaguars,7.5,-108.0,New England Patriots,-7.5,-102.0,2018-01-21
+249,Minnesota Vikings,-3.0,103.0,Philadelphia Eagles,3.0,-113.0,2018-01-21
+250,,3.0,-105.0,,-3.0,-105.0,2018-01-28
+251,Philadelphia Eagles,4.0,-101.0,New England Patriots,-4.0,-109.0,2018-02-04
